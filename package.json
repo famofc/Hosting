@@ -1,0 +1,11 @@
+{
+  "name": "zip-hosting-platform",
+  "version": "1.0.0",
+  "main": "worker.js",
+  "dependencies": {
+    "@cloudflare/workers-types": "^4.0.0",
+    "unzipper": "^0.10.14",
+    "jszip": "^3.10.1",
+    "mime-types": "^2.1.35"
+  }
+}
